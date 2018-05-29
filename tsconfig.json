@@ -16,5 +16,8 @@
       "es2017",
       "dom"
     ]
-  }
+  },
+  "files": [
+    "@types/json-schema/index.d.ts"
+  ]
 }
