@@ -1,9 +1,7 @@
 import { Pipe, PipeTransform } from '@angular/core';
 import { SongRequest } from '../model/song-request.model';
-import { SecondsToColonDelimitedPipe } from './seconds-to-colon-delimited.pipe';
 import { SongRequestPipe } from './song-request.pipe';
 
-const secondsToColonDelimited = new SecondsToColonDelimitedPipe();
 const songRequestPipe = new SongRequestPipe();
 
 const tokens = {

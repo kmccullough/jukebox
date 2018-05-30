@@ -29,7 +29,7 @@
     * There is no priority or order between the team members.
         * Order based on other rules and available time.
     * Play a song from each person before another song from the same person.
-        * Don't worry for now about continuing this pattern past everyone's first song per section.
+        * Continue this pattern
     * Having a period of time at the end of a section where no music is playing is acceptable, but we would prefer hearing another song if it would fit. Songs should not be scheduled if they will not finish playing within the 30 minute time
 boundary.
         * Sections should end as close as possible to, without exceeding, the section length. This is important; we need our quiet time!

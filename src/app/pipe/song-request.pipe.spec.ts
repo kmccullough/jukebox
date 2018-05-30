@@ -1,5 +1,5 @@
+import { SongRequest } from '../model/song-request.model';
 import { SongRequestPipe } from './song-request.pipe';
-import {SongRequest} from '../model/song-request.model';
 
 describe('SongRequestPipe', () => {
   let pipe;
